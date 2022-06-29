@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PassaggioDatitraschermate</string>
+    <string name="tvmessaggio">Inserisci messaggio: </string>
+    <string name="etmessaggio">Inserisci messaggio: </string>
+
+    <string name="bttstartactivity">Start Activity </string>
+    <string name="bttstartactivity4result">Start Activity for result </string>
+    <string name="LAUNCH_ACTIVITY">com.example.passaggiodatitraschermate.AnotherActivity</string>
+    <string name="LAUNCH_ACTIVITY_4_RESULT">com.example.passaggiodatitraschermate.AnotherActivity4Results</string>
+
+    <string name="LABEL_MEX">LABEL_MEX</string>
+    <string name="LABEL_MEX_RETURN">LABEL_MEX_RETURN</string>
+
+</resources>
